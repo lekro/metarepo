@@ -1,0 +1,95 @@
+format: 1
+name: GravityCraft
+authors: [Ivorius]
+desc: |
+    GravityCraft adds the possibility to rotate any entity to stand on walls, 
+    and change its gravity strength.
+versions:
+- name: '1.1'
+  mcvsn: [1.2.5]
+  files:
+  - filename: 'GravityCraft_1.1.zip'
+    ipfs: QmSUjK3pcNTUe5p1gvpNN3buxzL6adyXSb6WGeHxcUGHEd 
+    hash:
+      type: sha256
+      digest: 659ce7e4bf734dd59ae20bcf2abdb9cd2fdd91b8d3208689e5efb63b424661fe
+    urls:
+    - type: page
+      url: 'http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1285013-1-2-5-gravitycraft-mineup-1-1-higher-worlds'
+    - type: original
+      url: 'http://www.mediafire.com/file/tvr51qf46gl76j6/GravityCraft_1.1.zip'
+- name: '1.0'
+  mcvsn: [1.2.5]
+  files:
+  - filename: 'GravityCraft_1.0.zip'
+    ipfs: QmW6hf4hFqoJ8bELPYNKuMLU1ezwdhBx94zktAC7xCyMaa 
+    hash:
+      type: sha256
+      digest: 9c98cd58d39f861f80f2a1240cc28a469d514d0ce34acc6f6c75c826b0c1911a
+    urls:
+    - type: page
+      url: 'http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1285013-1-2-5-gravitycraft-mineup-1-1-higher-worlds'
+    - type: original
+      url: 'http://www.mediafire.com/file/wlhowin8d1x3j7b/GravityCraft_1.0.zip'
+  - filename: 'GravityCraft_1.0_API.zip'
+    ipfs: Qmb3x42kzfchAnaDUppa5CkDi6S3GAfb8Kg6rEeQ2AdRie 
+    hash:
+      type: sha256
+      digest: 2182907c341f164647ac42215dd3c4d79d80faa297941b1f35f2e5ca7633c0e4  
+    urls:
+    - type: page
+      url: 'http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1285013-1-2-5-gravitycraft-mineup-1-1-higher-worlds'
+    - type: original
+      url: 'http://www.mediafire.com/file/hd87m03n5at7vf8/GravityCraft_1.0_API.zip'
+- name: 'Beta 3'
+  mcvsn: [1.2.5]
+  files:
+  - filename: 'GravityCraft_Beta3.zip'
+    ipfs: QmZMKWFxajnUzCYpAZ2oNcdXNgDW9Eji6gfsPZhhhhE6DM 
+    hash:
+      type: sha256
+      digest: 6609f542ea2e79bf6ed965e4d5793273ef5aae9087f7dbf015fdc914f7b1dc1b
+    urls:
+    - type: page
+      url: 'http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1285013-1-2-5-gravitycraft-mineup-1-1-higher-worlds'
+    - type: original
+      url: 'http://www.mediafire.com/file/3xkgkxhufp0ud3v/GravityCraft_Beta3.zip'
+- name: 'Beta 2'
+  mcvsn: [1.2.5]
+  files:
+  - filename: 'GravityCraft_Beta2.zip'
+    ipfs: Qmd5nNvTNoniPmuSrbzm3tn1iqZ6ZnQ8hieQDWsx7b4Gu9 
+    hash:
+      type: sha256
+      digest: ea1821f71fc99280593c306c6b7bbfff813bc465ea12156f04e9911881db5074
+    urls:
+    - type: page
+      url: 'http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1285013-1-2-5-gravitycraft-mineup-1-1-higher-worlds'
+    - type: original
+      url: 'http://www.mediafire.com/file/65wajva13xzka6m/GravityCraft_Beta2.zip'
+- name: 'Beta 1'
+  mcvsn: [1.2.5]
+  files:
+  - filename: 'GravityCraft_Beta1.zip'
+    ipfs: QmfE1jLX5DEAWdnS5bwC5oT3GRSV3s9JRv2agJmHS7oXwh 
+    hash:
+      type: sha256
+      digest: 592bdceefe531977d086a219f500ed747763ea6aab02a950d00ff12820bb22b6
+    urls:
+    - type: page
+      url: 'http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1285013-1-2-5-gravitycraft-mineup-1-1-higher-worlds'
+    - type: original
+      url: 'http://www.mediafire.com/file/7zd0sat9b2q49hr/GravityCraft_Beta1.zip'
+- name: 'Pre-release'
+  mcvsn: [b1.8.1]
+  files:
+  - filename: 'GravityCraft_Pre-Release.zip'
+    ipfs: QmcQzTzmfnXJgryrHp32RVuKZrXe8QRLTmLZM57FZguBED 
+    hash:
+      type: sha256
+      digest: cc9d370d804fbc5aa00f909cadcaaf49bdacc66cc7fb48fd02c28ab4c48f1b40
+    urls:
+    - type: page
+      url: 'http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1285013-1-2-5-gravitycraft-mineup-1-1-higher-worlds'
+    - type: original
+      url: 'http://www.mediafire.com/file/6z2avruyqwhny71/GravityCraft_Pre-Release.zip'
